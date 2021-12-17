@@ -1,0 +1,52 @@
+body{
+    background-color: lightslategrey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    background-color: white;
+}
+
+h3{
+    color: green;
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+}
+
+#procesa{
+    color: red;
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    
+}
+
+#footer{
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    width: 98%;
+}
+
+p{
+    color: red;
+    text-align: center;
+}
+
+#tornaInici{
+    text-align: center;
+    background-color: white;
+    padding: 1em;
+}
+
+ul{
+    background-color: white;
+    padding: 2em;
+}
+
+li{
+    color: red;
+}

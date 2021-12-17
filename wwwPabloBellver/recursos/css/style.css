@@ -1,0 +1,76 @@
+body{
+    background-color: lightslategrey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1{
+    color: red;
+    text-align: center;
+    background-color: white;
+}
+
+h3{
+    color: red;
+    text-align: center;
+}
+
+p{
+    color: red;
+    text-align: center;
+}
+
+#contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#visitor, #usuario, #administrador{
+    border: 2px black solid;
+    justify-content: center;
+}
+
+#visitant, #admin {
+    text-decoration: none;
+}
+
+#links{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+}
+
+#login{
+    text-align: center;
+}
+
+.amarillo{
+    background-color: yellow;
+    padding: 2em;
+    
+}
+
+
+
+.azul{
+    background-color: lightseagreen;
+    padding: 2em;
+}
+
+#tornaInici{
+    justify-content: center;
+    background-color: white;
+    padding: 1em;
+}
+
+#newUser{
+    background-color: white;
+}
+
+
